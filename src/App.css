@@ -1,0 +1,19 @@
+img {
+  width: 100%;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  width: 20%;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  width: 40%;
+  text-align: center;
+}
